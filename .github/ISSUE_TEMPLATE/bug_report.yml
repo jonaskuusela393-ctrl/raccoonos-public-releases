@@ -1,0 +1,76 @@
+name: Bug report
+description: Report one reproducible RaccoonOS problem
+title: "[Bug] "
+labels: [bug, needs-triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. Search existing issues first and report one problem here.
+        **Never post passwords, disk keys, API tokens, cookies, Wi-Fi credentials, private filenames, camera data, faces, or unredacted serial numbers.**
+  - type: input
+    id: version
+    attributes:
+      label: RaccoonOS version and edition
+      description: For example, 6.0.0 Public. Do not report private build identifiers.
+      placeholder: 6.0.0 Public
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Live USB
+        - Installed physical computer
+        - Virtual machine
+        - Source preview
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Relevant hardware
+      description: Manufacturer/model, CPU, GPU and the affected Wi-Fi/audio/input device. Redact serial numbers.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Numbered steps beginning from startup or a known state.
+      placeholder: |
+        1. Start RaccoonOS...
+        2. Open...
+        3. Select...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Redacted logs or screenshots
+      description: Optional. Read every line and remove private data before attaching it.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Safety checks
+      options:
+        - label: I searched for an existing report.
+          required: true
+        - label: I removed secrets and private data from this report and its attachments.
+          required: true
+        - label: This is not a security vulnerability requiring private disclosure.
+          required: true

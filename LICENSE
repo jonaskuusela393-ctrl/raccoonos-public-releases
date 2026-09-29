@@ -1,0 +1,205 @@
+RaccoonOS Personal Use License 1.0
+Effective date: 25 August 2026
+
+Copyright (c) 2026 RaccoonOS Project. All rights reserved except as expressly
+granted below.
+
+This license is not an Open Source Initiative approved license. Read it before
+downloading, installing, copying, modifying, or using the Covered Work.
+
+1. Definitions
+
+"Covered Work" means the original RaccoonOS code, configuration,
+documentation, artwork, branding, and other material that the RaccoonOS
+Project owns and distributes with this license or an express reference to it.
+Covered Work does not include Third-Party Material.
+
+"Natural Person" means a human individual acting only in that individual's
+personal capacity.
+
+"Personal Use" means use by a Natural Person on devices that individual owns
+or personally controls, solely for personal, household, hobby, or
+self-educational purposes. Personal Use does not include use:
+
+(a) for trade, business, professional practice, employment, contracting,
+commercial advantage, or monetary compensation;
+(b) for, at the direction of, on behalf of, or primarily for the benefit of an
+Organization; or
+(c) to provide a hosted, managed, bureau, training, consulting, or support
+service to another person or Organization.
+
+"Organization" means any person other than a Natural Person acting solely in
+a personal capacity. It includes a company, corporation, partnership, sole
+trader or other business, employer, nonprofit, association, school,
+university, research institution, government, government agency,
+intergovernmental body, police or law-enforcement body, intelligence service,
+armed force, militia, military contractor, and any unit or representative of
+those bodies.
+
+"Organizational License" means a separate written agreement signed or
+otherwise expressly accepted in writing by the RaccoonOS copyright holder and
+the Organization. Payment, downloading, access to source, silence, or use does
+not by itself create an Organizational License.
+
+"Third-Party Material" means software, documentation, fonts, protocols,
+artwork, or other material owned by someone other than the RaccoonOS Project,
+including Debian, the Linux kernel, Firefox, systemd, and their packages and
+dependencies.
+
+2. Free license for Personal Use
+
+Subject to every term of this license, the RaccoonOS Project grants a Natural
+Person a worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+(a) download, install, and run the Covered Work for Personal Use;
+(b) make a reasonable number of complete backup copies for Personal Use;
+(c) inspect the source form; and
+(d) modify the Covered Work solely for that Natural Person's own Personal Use.
+
+No right is granted to sublicense, sell, rent, lease, host, commercially
+exploit, or use the Covered Work outside Personal Use.
+
+3. Limited personal sharing
+
+A Natural Person may give an unmodified, complete copy of the Covered Work to
+another Natural Person without charge only when this license, copyright
+notices, attribution, disclaimers, and Third-Party Material notices remain
+intact. The recipient receives rights only under the applicable license and
+must independently qualify for Personal Use. Modified copies may not be
+distributed without prior written permission.
+
+Sharing a link to an official RaccoonOS download or source page is permitted.
+Use of the RaccoonOS name or marks remains subject to section 7.
+
+4. Organizations require a separate license
+
+No Organization receives a right under this license to install, operate,
+evaluate in production, deploy, copy, modify, distribute, manage, host, make
+available, or otherwise use the Covered Work. A Natural Person may not rely on
+the Personal Use grant for activity performed for an Organization.
+
+An Organization must obtain an Organizational License before use. This
+requirement expressly includes all business, corporate, government,
+law-enforcement, intelligence, military, defense-contractor, militia,
+nonprofit, educational, and institutional use, whether commercial or
+noncommercial and whether connected to a network or fully offline.
+
+An Organizational License may impose fees, device or user limits, audit and
+reporting duties, support terms, territory or purpose limits, and additional
+safety, export-control, and compliance conditions.
+
+5. Third-Party Material
+
+Third-Party Material is governed solely by its own license notices. Nothing in
+this license limits rights granted directly by a third-party copyright holder,
+adds a restriction to GPL-covered or other upstream material, or claims
+ownership of Debian, Linux, Firefox, or any other independent project.
+
+An operating-system image may be an aggregate containing both Covered Work and
+Third-Party Material. Removing the Covered Work does not remove or alter the
+upstream rights in Third-Party Material. Installed notices are commonly found
+under /usr/share/doc and in the RaccoonOS third-party notices.
+
+6. Earlier licenses and exceptions
+
+Copyright permissions already validly granted for a specific copy under an
+earlier license, including the MIT License used for earlier RaccoonOS copies,
+are not withdrawn by this license. This license applies only where the Covered
+Work or its distribution identifies this license as applicable. Rights created
+by mandatory law, fair use, fair dealing, exhaustion, or another applicable
+exception are not restricted.
+
+7. Name, logo, and release identity
+
+No trademark, service-mark, certification-mark, trade-name, or passing-off
+right is granted. "RaccoonOS," the raccoon-computer logo, related marks, and
+official release appearance may be used only as reasonably necessary to refer
+truthfully to an unmodified official copy. They may not be used to imply
+sponsorship, approval, partnership, origin, compatibility certification, or
+official status.
+
+Modified builds must use a clearly different name and visual identity, must
+state prominently that they are unofficial, and must not use RaccoonOS signing
+keys, update endpoints, or accepted-release identifiers without written
+permission.
+
+8. Compliance, verification, and no circumvention
+
+A licensee must preserve this license and all applicable copyright, attribution,
+and Third-Party Material notices. A licensee may not remove or falsify release
+identity, license, provenance, integrity, safety, or attribution information in
+order to misrepresent permission or acceptance status.
+
+On a reasonable written request concerning suspected Organizational use, the
+person or Organization must identify the license relied upon and provide
+information reasonably necessary to confirm compliance, subject to applicable
+privacy and mandatory law. This section does not authorize access to private
+files, credentials, communications, or unrelated personal data.
+
+9. Termination and cure
+
+Rights under this license terminate automatically upon material breach. For a
+Natural Person's first unintentional breach, rights are reinstated if the
+breach is fully cured within 30 days after the person discovers it or receives
+written notice, whichever occurs first. There is no automatic cure for willful
+misrepresentation, unauthorized Organizational use, sublicensing, sale, or
+repeat breach. Sections intended by their nature to survive termination do so.
+
+10. Safety and lawful use
+
+This license grants copyright permission only. It does not authorize unlawful
+access, surveillance, interception, weapons activity, privacy violations,
+export violations, or conduct requiring another person's consent or a permit.
+The user is responsible for lawful authorization, backups, hardware safety,
+data protection, and the consequences of commands and security tools.
+
+11. No warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COVERED WORK IS PROVIDED
+"AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND,
+EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF TITLE,
+NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+ACCURACY, SECURITY, AVAILABILITY, DATA PRESERVATION, OR ERROR-FREE OPERATION.
+NO DOCUMENTATION, STATEMENT, OR SUPPORT RESPONSE CREATES A WARRANTY UNLESS A
+SEPARATE WRITTEN ORGANIZATIONAL LICENSE EXPRESSLY SAYS SO.
+
+12. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE RACCOONOS PROJECT,
+COPYRIGHT HOLDERS, AND CONTRIBUTORS WILL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL LOSS, OR FOR LOSS OR
+CORRUPTION OF DATA, PROFITS, REVENUE, BUSINESS, GOODWILL, SECURITY, OR USE,
+ARISING FROM OR RELATED TO THE COVERED WORK, EVEN IF ADVISED OF THE POSSIBILITY.
+THEIR TOTAL AGGREGATE LIABILITY FOR THE COVERED WORK WILL NOT EXCEED THE AMOUNT
+THE CLAIMANT PAID TO THE RACCOONOS PROJECT FOR THE COVERED WORK DURING THE
+TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+Nothing in this license excludes liability or statutory rights that applicable
+law does not permit to be excluded or limited. Natural Persons acting as
+consumers retain all mandatory consumer rights.
+
+13. Governing law and disputes
+
+This license is governed by the laws of Finland, excluding its choice-of-law
+rules. Courts in Finland have jurisdiction, with venue determined by applicable
+procedural and mandatory consumer law. Before filing a claim, a party must give
+reasonable written notice and allow 30 days for good-faith resolution, unless
+urgent injunctive relief is reasonably necessary.
+
+14. General terms
+
+This license is the entire public copyright license for the Covered Work it
+governs. An Organizational License may replace or supplement it for the parties
+to that agreement. Failure to enforce a term is not a waiver. If a term is held
+unenforceable, it will be limited to the minimum extent necessary and the
+remaining terms continue. Headings are for convenience. "Including" is not
+limiting. No agency, employment, partnership, fiduciary, or joint-venture
+relationship is created.
+
+15. Organizational licensing
+
+An Organization has no permission to use the Covered Work until the RaccoonOS
+copyright holder has accepted a separate written Organizational License.
+Consult the official RaccoonOS licensing page for the current application
+channel. Do not send security vulnerabilities, credentials, classified
+information, or sensitive operational details through a public channel.
